@@ -65,7 +65,7 @@ You must be at least 13 years of age to use this Site. By using the Site and agr
 <a name="privacy-policy"></a>
 ### 6. Privacy Policy
 
-13.  Use of the Site is also governed by our Privacy Policy, which is incorporated into these terms and conditions by [this reference](https://dothq.co/terms/privacy).
+13.  Use of the Site is also governed by our Privacy Policy, which is incorporated into these terms and conditions by [this reference](https://dothq.co/legal/privacy).
 
 <a name="availability-of-the-site-and-disclaimers"></a>
 ### 7. Availability of the Site and disclaimers
